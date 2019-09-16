@@ -6,7 +6,7 @@ THIS IS NOT FINANCIAL ADVICE. WE SHARE STRATEGIES FOR EDUCATIONAL PURPOSES ONLY.
 
 # Bull Run Rider - SDA v.0.0.1 - USDT - 1hr.json
 
-## Basic Specs
+## Specifications
 
 ### Market
 
