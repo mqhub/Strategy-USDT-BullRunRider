@@ -29,7 +29,7 @@ We split the goal in two:
 Identify breakouts of the Bollinger Bands (price going above the upper deviation band). Use %Bandwidth indicator to assess momentum and Bollinger Bands moving average to filter out late entries.
 
 
-### Current Performance in Backtests
+### Current Performance in Backtests (Poloniex)
 
 | Details | 2019 | 2018 | 2017 |
 | :--- | :---: | :---: | :---: |
