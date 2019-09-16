@@ -18,7 +18,7 @@ Catching big market moves, with a conservative approach to minimize risk.
 
 ### Approach
 
-We split the goal in two.
+We split the goal in two:
 
 1. We focus on potentially big market moves, therefore, the strategy will be optimized for bull runs.
 
