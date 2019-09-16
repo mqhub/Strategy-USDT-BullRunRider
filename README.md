@@ -36,7 +36,7 @@ Identify breakouts of the Bollinger Bands (price going above the upper deviation
 | Trades: | 7 | 3 | 6 |
 | Hits: | 7 | 1 | 4 |
 | Fails: | 0 | 2 | 2 |
-| ROI: | 189% | 23.8% | 44.5% |
+| ROI: | 189% | 16.5% | 44.5% |
 
 As you can see, the strategy is conservative during 2017 and 2018, as it is optimized for current market conditions... that is why it performs better in 2019 than in 2017.
 
