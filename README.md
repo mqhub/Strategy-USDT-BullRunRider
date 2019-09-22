@@ -3,15 +3,22 @@ This repository holds an open-source trading strategy maintained by the [Superal
 
 People not interested in trading automation may still obtain the strategy's situations, conditions, and formulas by using the app's Designer interface, and use the set of rules as they see fit. The app may also be used for testing ideas, for backtesting and paper-trading (signals!).
 
-## Disclaimer
-
-> **THIS IS NOT FINANCIAL ADVICE. ALTHOUGH THE STRATEGIES IN THIS REPOSITORY MAY BE FULLY FUNCTIONAL, WE DO NOT MAKE ANY EXPRESS OR IMPLIED RECOMMENDATION AS OF HOW YOU SHOULD USE THEM. WE SHARE STRATEGIES FOR EDUCATIONAL PURPOSES ONLY. TRADE AT YOUR OWN RISK.**
-
 # Bull Run Rider - USDT - 1hr
 
 ## Specifications
 
 JSON file compatible with the Superalgos Desktop App v.0.0.1
+
+### Current Performance in Backtests (Poloniex)
+
+| Details | 2019 | 2018 | 2017 |
+| :--- | :---: | :---: | :---: |
+| Trades: | 7 | 3 | 6 |
+| Hits: | 7 | 1 | 4 |
+| Fails: | 0 | 2 | 2 |
+| ROI: | 189% | 16.5% | 44.5% |
+
+As you can see, the strategy is conservative during 2017 and 2018, as it is optimized for current market conditions. That is why it performs better in 2019 than in 2017's bull run.
 
 ### Market
 
@@ -33,13 +40,6 @@ We split the goal in two:
 
 Identify breakouts of the Bollinger Bands (price going above the upper deviation band). Use %Bandwidth indicator to assess momentum and Bollinger Bands moving average to optimize the *take position event*, and filter out late entries.
 
-### Current Performance in Backtests (Poloniex)
+# Disclaimer
 
-| Details | 2019 | 2018 | 2017 |
-| :--- | :---: | :---: | :---: |
-| Trades: | 7 | 3 | 6 |
-| Hits: | 7 | 1 | 4 |
-| Fails: | 0 | 2 | 2 |
-| ROI: | 189% | 16.5% | 44.5% |
-
-As you can see, the strategy is conservative during 2017 and 2018, as it is optimized for current market conditions. That is why it performs better in 2019 than in 2017's bull run.
+> **THIS IS NOT FINANCIAL ADVICE. ALTHOUGH THE STRATEGIES IN THIS REPOSITORY MAY BE FULLY FUNCTIONAL, WE DO NOT MAKE ANY EXPRESS OR IMPLIED RECOMMENDATION AS OF HOW YOU SHOULD USE THEM. WE SHARE STRATEGIES FOR EDUCATIONAL PURPOSES ONLY. TRADE AT YOUR OWN RISK.**
