@@ -32,9 +32,9 @@ Catching big rallies, with a conservative approach to minimize risk.
 
 We split the goal in two:
 
-1. We focus on potentially big market moves, therefore, the strategy will be optimized for bull runs.
+1. We focus on potentially big market moves, therefore, the strategy is optimized for bull runs.
 
-2. We will take the clearest and most promising opportunities only. We will pass on everything else.
+2. We take the clearest and most promising opportunities only. We pass on everything else.
 
 ### Trading idea
 
