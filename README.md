@@ -1,5 +1,5 @@
 # About
-This repository holds an open-source trading strategy. The strategy conforms to the Superalgos Protocol, therefore, it may function as a fully automated trading system within the [Superalgos Desktop App](https://superalgos.org/tools-superalgos-desktop-app.shtml). 
+This repository holds an open-source trading strategy maintained by the [Superalgos Community](https://t.me/superalgoscommunity). The strategy conforms to the Superalgos Protocol, therefore, it may function as a fully automated trading system within the [Superalgos Desktop App](https://superalgos.org/tools-superalgos-desktop-app.shtml). 
 
 People not interested in trading automation may still obtain the strategy's situations, conditions, and formulas by using the app's Designer interface, and use the set of rules as they see fit. The app may also be used for testing ideas, for backtesting and paper-trading (signals!).
 
@@ -7,11 +7,11 @@ People not interested in trading automation may still obtain the strategy's situ
 
 > **THIS IS NOT FINANCIAL ADVICE. ALTHOUGH THE STRATEGIES IN THIS REPOSITORY MAY BE FULLY FUNCTIONAL, WE DO NOT MAKE ANY EXPRESS OR IMPLIED RECOMMENDATION AS OF HOW YOU SHOULD USE THEM. WE SHARE STRATEGIES FOR EDUCATIONAL PURPOSES ONLY. TRADE AT YOUR OWN RISK.**
 
-# Bull Run Rider - SDA v.0.0.1 - USDT - 1hr.json
+# Bull Run Rider - USDT - 1hr
 
 ## Specifications
 
-JSON file compatible with the Superalgsos Desktop App v.0.0.1
+JSON file compatible with the Superalgos Desktop App v.0.0.1
 
 ### Market
 
