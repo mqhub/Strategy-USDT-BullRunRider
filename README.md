@@ -20,7 +20,7 @@ JSON file compatible with the Superalgos Desktop App v.0.0.1
 
 [ * ] The strategy starts with an *initial capital* and reinvests accumulated profits in every trade. ROI is calculated over the *initial capital*.
 
-As you can see, the strategy is conservative during 2017 and 2018, as it is optimized for current market conditions. That is why it performs better in 2019 than in 2017's bull run.
+As you may see, the strategy is conservative during 2017 and 2018, as it is optimized for current market conditions. That is why it performs better in 2019 than in 2017's bull run.
 
 ### Market
 
