@@ -5,13 +5,9 @@ People not interested in trading automation may still obtain the strategy's rule
 
 # Bull Run Rider - USDT - 1hr
 
-## Specifications
+## Performance in Backtests (Poloniex)
 
-JSON file compatible with the Superalgos Desktop App v.0.0.1
-
-### Current Performance in Backtests (Poloniex)
-
-| Details | 2019 | 2018 | 2017 |
+| Details | Jan - Aug 2019 | 2018 | 2017 |
 | :--- | :---: | :---: | :---: |
 | Trades: | 7 | 3 | 6 |
 | Hits: | 7 | 1 | 4 |
@@ -21,6 +17,10 @@ JSON file compatible with the Superalgos Desktop App v.0.0.1
 [ * ] The strategy starts with an *initial capital* and reinvests accumulated profits in every trade. ROI is calculated over the *initial capital*.
 
 As you may see, the strategy is conservative during 2017 and 2018, as it is optimized for current market conditions. That is why it performs better in 2019 than in 2017's bull run.
+
+## Specifications
+
+JSON file compatible with the Superalgos Desktop App v.0.0.1
 
 ### Market
 
