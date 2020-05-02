@@ -5,22 +5,32 @@ People not interested in trading automation may still obtain the strategy's rule
 
 # Bull Run Rider - USDT - 1hr
 
-## Performance in Backtests (Poloniex)
-
-| Details | Jan - Aug 2019 | 2018 | 2017 |
-| :--- | :---: | :---: | :---: |
-| Trades: | 7 | 3 | 6 |
-| Hits: | 7 | 1 | 4 |
-| Fails: | 0 | 2 | 2 |
-| ROI*: | 189% | 16.5% | 44.5% |
-
-[ * ] The strategy starts with an *initial capital* and reinvests accumulated profits in every trade. ROI is calculated over the *initial capital*.
-
-As you may see, the strategy is conservative during 2017 and 2018, as it is optimized for current market conditions. That is why it performs better in 2019 than in 2017's bull run.
-
 ## Specifications
 
 JSON file compatible with the Superalgos Desktop App v.0.0.1
+
+### Performance in Backtests (Binance)
+
+| Details | Jan 2018 - Aug 2019 | Jan 2019 - Aug 2019 | 2018 |
+| :--- | :---: | :---: | :---: |
+| Trades: | 10 | 7 | 3 | 
+| Hits: | 7 | 6 | 1 | 
+| Fails: | 3 | 1 | 2 | 
+| Hit Ratio: | 70% | 85.7% | 33.3% | 
+| ROI*: | 160.4% | 125.2% | 15.6% | 
+
+### Live Performance (Binance)
+
+| Details | Aug 2019 - Apr 2020 |
+| :--- | :---: |
+| Trades: | 5 |
+| Hits: | 2 |
+| Fails: | 3 |
+| Hit Ratio: | 40% |
+| ROI*: | -0.9% |
+
+
+[ * ] The strategy starts with an *initial capital* and reinvests accumulated profits in every trade. ROI is calculated over the *initial capital*.
 
 ### Market
 
